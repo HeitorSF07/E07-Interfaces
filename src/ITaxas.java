@@ -1,0 +1,3 @@
+interface ITaxas {
+    double calculaTaxas();
+}
